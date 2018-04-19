@@ -375,3 +375,4 @@ Great work!
 [manual PR instructions]: http://help.learn.co/workflow-tips/github/how-to-manually-submit-a-lab
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-basics-strings-code-along'>Strings Code-along</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-T2 Strings Code-along</p>
