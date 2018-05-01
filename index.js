@@ -1,2 +1,2 @@
-currentUser = ""
+currentUser = "Will"
 welcomeMessage = ("Welcome to Flatbook, " + currentUser + "!")
